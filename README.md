@@ -2,7 +2,7 @@
 
 🎓 **Management & Data Science** Student @ **Technical University Munich**  
 💻 **Software Engineering** Student @ **42 Heilbronn**  
-💼 Working Student @ **Lauda**  
+💼 **Product Management** Working Student @ **Lauda**  
 📈 Passionate about data, analytics, and tech in sports  
 ⚽ Former Malaysian U19 Footballer | 🏆 AFF U19 Champion 2022  
 
