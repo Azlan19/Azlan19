@@ -33,5 +33,5 @@
 
 ## 📅 Current Focus
 
-- 📚 **Learning**: Advanced Excel, Python for Data Analysis, Software Engineering fundamentals 
+- 📚 **Learning**: Software Engineering fundamentals, Python for Data Analysis, Advanced Excel
 - ⚙️ **Projects**: Football data analysis, TUM coursework projects, 42 Cursus projects
