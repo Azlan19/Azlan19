@@ -1,6 +1,6 @@
 # Omar Azlan 🦁
 
-🎓 **Management & Data Science** Student @ **Technical University Munich**  
+🎓 **Data Science & Management** Student @ **Technical University Munich**  
 💻 **Software Engineering** Student @ **42 Heilbronn**  
 💼 **Product Management** Working Student @ **Lauda**  
 📈 Passionate about data, analytics, and tech in sports  
@@ -14,12 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Azlan19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azlan19&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azlan19&layout=compact&theme=radical)
 
 ---
 
@@ -34,4 +28,4 @@
 ## 📅 Current Focus
 
 - 📚 **Learning**: Software Engineering fundamentals, Python for Data Analysis, Advanced Excel
-- ⚙️ **Projects**: Football data analysis, TUM coursework projects, 42 Cursus projects
+- ⚙️ **Projects**: TUM coursework projects, 42 Cursus projects, Multi-platform TODO App
