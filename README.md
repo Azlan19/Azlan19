@@ -28,4 +28,4 @@
 ## 📅 Current Focus
 
 - 📚 **Learning**: Software Engineering fundamentals, Python for Data Analysis, Advanced Excel
-- ⚙️ **Projects**: TUM coursework projects, 42 Cursus projects, Multi-platform TODO App
+- ⚙️ **Projects**: TUM coursework projects, 42 Cursus projects, Football Analysis Certifications
